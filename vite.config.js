@@ -5,6 +5,7 @@ import packageJson from "./package.json" with { type: "json" }
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/Weather_App/',
   plugins: [react()],
 
   resolve: {
