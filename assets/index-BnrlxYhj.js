@@ -278,7 +278,7 @@ attempted value: ${d}
   align-items: center;
   justify-content: center;
   gap: 50px;
-`;function h4(){return I.jsx(d4,{children:I.jsx(f4,{})})}function p4(){return I.jsx(k_,{children:I.jsx(ax,{children:I.jsxs(E_,{children:[I.jsx(_c,{path:cl.NOT_FOUND,element:"Page Not Found"}),I.jsx(_c,{path:cl.HOME,element:I.jsx(s4,{})}),I.jsx(_c,{path:cl.WEATHERS,element:I.jsx(h4,{})})]})})})}const m4=JD(xh),y4=n=>TD({reducer:m4,preloadedState:n}),g4=y4(),v4=G2`
+`;function h4(){return I.jsx(d4,{children:I.jsx(f4,{})})}function p4(){return I.jsx(k_,{basename:"/Weather_App",children:I.jsx(ax,{children:I.jsxs(E_,{children:[I.jsx(_c,{path:cl.NOT_FOUND,element:"Page Not Found"}),I.jsx(_c,{path:cl.HOME,element:I.jsx(s4,{})}),I.jsx(_c,{path:cl.WEATHERS,element:I.jsx(h4,{})})]})})})}const m4=JD(xh),y4=n=>TD({reducer:m4,preloadedState:n}),g4=y4(),v4=G2`
   * {
     box-sizing: border-box;
   }
