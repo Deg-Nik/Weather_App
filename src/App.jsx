@@ -8,7 +8,7 @@ import Weathers from "./WeatherProject/Weathers/Weathers"
 
 function App() {
   return (
-    <BrowserRouter>      
+    <BrowserRouter basename="/Weather_App">      
       <Layout>
         <Routes>
           <Route path={ROUTES.NOT_FOUND} element="Page Not Found" />
