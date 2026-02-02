@@ -128,7 +128,7 @@ function HomePage() {
         <ResultDiv>
           {isLoading && (
             <InfoContainer>
-              <ImgSpinner src="/Loading_2.gif" alt="Loading..." />
+              <ImgSpinner src="/Weather_App/Loading_2.gif" alt="Loading..." />
             </InfoContainer>
           )}
 

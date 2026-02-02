@@ -5,7 +5,7 @@ export const LayoutWrapper = styled.div`
   display: flex;
   flex-direction: column;
   flex: 1;
-  background-image: url("/background.jpg");
+  background-image: url("/Weather_App/background.jpg");
   background-size: cover;
   background-position: center;
 `
